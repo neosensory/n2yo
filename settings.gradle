@@ -1,3 +1,0 @@
-rootProject.name='N2YOExample'
-include ':app'
-include ':n2yo'
