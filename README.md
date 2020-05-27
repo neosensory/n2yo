@@ -1,6 +1,6 @@
 [![](https://jitpack.io/v/neosensory/n2yo.svg)](https://jitpack.io/#neosensory/n2yo)
 
-# n2yo
+# n2yo-android-lib
 
 This Android library helps facilitate working with the [N2YO.com API](https://www.n2yo.com/api/) for satellite tracking. To use the API, you'll need to sign up on their site to obtain a free API key. 
 
