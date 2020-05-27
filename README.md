@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/neosensory/n2yo.svg)](https://jitpack.io/#neosensory/n2yo)
+[![](https://jitpack.io/v/neosensory/n2yo-android-lib.svg)](https://jitpack.io/#neosensory/n2yo-android-lib)
 
 # n2yo-android-lib
 
@@ -6,7 +6,7 @@ This Android library helps facilitate working with the [N2YO.com API](https://ww
 
 ## Installation
 
-You can add this library to your Android project via [Jitpack](https://jitpack.io/#neosensory/n2yo). This library requires the Internet permission be added to your AndroidManifest.xml file.
+You can add this library to your Android project via [Jitpack](https://jitpack.io/#neosensory/n2yo-android-lib). This library requires the Internet permission be added to your AndroidManifest.xml file.
 
 ## Usage
 
